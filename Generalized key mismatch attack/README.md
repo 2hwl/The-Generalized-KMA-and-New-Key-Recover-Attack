@@ -30,7 +30,7 @@ The number of forged ciphertexts in generalized key mismatch attack
 	  </tr>
 	  <tr>
 	    <td>Kyber1024</td>
-	    <td>1367.88</td>
+	    <td>2367.88</td>
 	    <td>1186.97</td>
 	    <td>596.49</td>
 	    <td>301.24</td>
